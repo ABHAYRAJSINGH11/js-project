@@ -32,6 +32,16 @@ studentData({
 const myArr=[122,3,55,778,86]
 
 function returnArrayValue(getArray){
-    return getArray[1]
+ 
+     return getArray[2];                  //to get a specific index of array
 }
 console.log(returnArrayValue(myArr));
+
+
+
+function returnArray(getArray){
+ 
+    return getArray;                      //to get full array
+}
+
+console.log(returnArray(myArr));

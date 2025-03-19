@@ -12,7 +12,7 @@
 
 // newFun() //cannot be accessed from here
 const newFun= function(){
-    console.log("this is another way to dec. function which can be accessed from anywhere");
+    console.log("this is another way to dec. function which cannot be accessed before its declaration");
 }
 newFun() //can be accessed from here
 

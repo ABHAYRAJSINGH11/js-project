@@ -49,7 +49,7 @@
 // console.log(obj4);
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DESTRUCTURE OF OBJECT   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-const cars={// non-soingleton object
+const cars={                                          // non-singleton object
     name:"honda",
     speed:200,
     price:"2 lakh",
