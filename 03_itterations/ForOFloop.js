@@ -1,4 +1,23 @@
-// for of
+// ✅ for...of Loop
+// Use it on iterable objects like arrays, strings, maps, sets, and more.
+
+// Cannot be used directly on plain objects because they are not iterable.
+
+// ✅ Works on:
+
+// Arrays
+
+// Strings
+
+// Maps
+
+// Sets
+
+// TypedArrays (like Int8Array, Uint16Array, etc.)
+
+// ❌ Does NOT work on:
+
+// Plain JavaScript Objects ({})
 
 // ["", "", ""]                  //array of strings
 // [{}, {}, {}]                  //array of objects
