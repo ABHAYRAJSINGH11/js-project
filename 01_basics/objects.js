@@ -49,13 +49,13 @@
 // console.log(obj4);
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DESTRUCTURE OF OBJECT   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-const cars={                                          // non-singleton object
-    name:"honda",
-    speed:200,
-    price:"2 lakh",
+// const cars={                                          // non-singleton object
+//     name:"honda",
+//     speed:200,
+//     price:"2 lakh",
     
-    myArr:[3,4,6,8]
-    }
+//     myArr:[3,4,6,8]
+//     }
  
-    const {name:nm}=cars   //keys ko short me use krne k liye kaam aata hai, so that baar baar cars.keys NAA likhna pade
-    console.log(nm);
+//     const {name:nm}=cars   //keys ko short me use krne k liye kaam aata hai, so that baar baar cars.keys NAA likhna pade
+//     console.log(nm);
