@@ -10,4 +10,6 @@ console.log(str3);
 
 str4=[...str1,...str2]
 console.log(str4);
-console.log((str4).join(''));
+console.log((str4).join(''));  // join k andar('') iska mtlb hai ki array k andar k elements ko join kr do without any gap
+                               // agr bas() hota toh bydefaut , se seperate hota- Raj, Jadaun
+console.log(stringOne.replace("raj","tar"));
