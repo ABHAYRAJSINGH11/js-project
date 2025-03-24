@@ -1,10 +1,10 @@
 // const coding = ["js", "ruby", "java", "python", "cpp"]
 
-//For each, filter, map- these take call back functions
+//For each, filter, map, reduce- these take call back functions
 
 
 // const values = coding.forEach( (item) => {     //For each operation Dont return values
-//     //console.log(item);                       // Filter and map operation returns value
+//     //console.log(item);                       // Filter, map, reduce operation returns value
 //     return item
 // } )
 
