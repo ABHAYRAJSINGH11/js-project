@@ -1,3 +1,5 @@
+//Itterates for each value or item
+
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach( function (val){
@@ -14,7 +16,7 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach(printMe)
 
-// coding.forEach( (item, index, arr)=> {
+// coding.forEach( (item, index, arr)=> {     //we can retrive item, index and array from for each loop by this syntax
 //     console.log(item, index, arr);
 // } )
 
